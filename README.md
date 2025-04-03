@@ -157,8 +157,6 @@ Distributed under the MIT License. See [`LICENSE.txt`](https://github.com/cosmoa
 <!-- CONTACT -->
 ## Contact
 
--   My website - [cosmoart.vercel.app](https://akash77-lets-quiz.vercel.app/)
--   Twitter - [@CosmoArt0](https://twitter.com/cosmoart0)
--   Instagram - [@cosmo_art0](https://www.instagram.com/cosmo_art0/)
-
+-   My website - [](https://akash77-lets-quiz.vercel.app/)
+-   Twitter - [](https://x.com/Akashp77)
 <p align="right"><a href="#top">⬆️ Back to top</a></p>
